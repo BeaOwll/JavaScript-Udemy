@@ -1,0 +1,13 @@
+Expressoes Regulares
+
+- São uma forma de encontrar padrões em uma string. Ex: Validar se só tem numeros. 
+- Em vez de criarmos funções complexas, podemos encontrar dados em texto por meio de expressões regulares(Regex).
+- Em js expressões regulares são um tipo de objeto, e podemos intancialos de duas formas: 
+
+1-
+let reg1 = new RegExp("Teste");
+
+2-
+let reg2 = /test/; 
+
+sendo a segunda forma a mais utilizada.
